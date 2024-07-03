@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">soalandroid</string>
+    <string name="back_to_home">Back To Home</string>
+    <string name="category">Category</string>
+</resources>
